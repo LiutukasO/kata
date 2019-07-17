@@ -1,0 +1,15 @@
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+#Target Files
+target/
+
+#Eclipse files
+**/.project
+**/.classpath
+**/.settings/
+**/.tern-project
